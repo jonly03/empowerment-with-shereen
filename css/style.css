@@ -18,6 +18,10 @@ nav .brand-logo {
   width: 100%;
 }
 
+.link {
+  color: #795548;
+}
+
 p {
   line-height: 2rem;
 }
